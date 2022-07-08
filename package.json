@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4",
+    "node-xlsx": "^0.21.0",
+    "single-line-log": "^1.1.2",
+    "superagent": "^7.1.3"
+  }
+}
